@@ -2,6 +2,7 @@
 Student Record Management System in C++ 
 Efficiently manage student records with this Student Record Management System built in C++.
 This project offers a user-friendly command-line interface to handle key functionalities such as data entry, display, search, update, and deletion.
+It uses switch statement ,arrays ,for loop ,if-else statements,header files,while loop.
 
 ## Key Features
 - **CLI Interface**: Seamlessly interact with the system using an intuitive command-line interface.
